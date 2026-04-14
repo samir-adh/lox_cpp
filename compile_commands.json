@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/media/samir/storage/lab/lox_cpp",
+  "arguments": ["/usr/bin/g++", "-c", "-m64", "-fvisibility=hidden", "-fvisibility-inlines-hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/lox_cpp/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
